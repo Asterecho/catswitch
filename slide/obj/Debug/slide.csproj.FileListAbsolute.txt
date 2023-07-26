@@ -1,0 +1,8 @@
+C:\Users\Administrator\Desktop\slide\slide\obj\Debug\slide.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\slide\slide\obj\Debug\slide.MainForm.resources
+C:\Users\Administrator\Desktop\slide\slide\obj\Debug\slide.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\slide\slide\bin\Debug\喵切.exe.config
+C:\Users\Administrator\Desktop\slide\slide\bin\Debug\喵切.exe
+C:\Users\Administrator\Desktop\slide\slide\bin\Debug\喵切.pdb
+C:\Users\Administrator\Desktop\slide\slide\obj\Debug\喵切.exe
+C:\Users\Administrator\Desktop\slide\slide\obj\Debug\喵切.pdb
