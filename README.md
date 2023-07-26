@@ -1,9 +1,8 @@
+[![](appinn.png)](https://www.appinn.com/cat-switch/)
+
 # catswitch
 
-
 程序名：喵切 
-
-作者：ifwz1729
 
 ![演示](%E6%BC%94%E7%A4%BA.gif)
 
